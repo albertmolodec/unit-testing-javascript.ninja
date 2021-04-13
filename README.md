@@ -1,3 +1,3 @@
-# Materials about unit testing course 
+# The Unit testing course materials
 
 
