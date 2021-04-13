@@ -1,2 +1,3 @@
-# unit-testing-javascript.ninja
-https://javascript.ninja/workshops/unit-testing
+# Materials about unit testing course 
+
+
